@@ -13,7 +13,8 @@ let users = [ vasya, petya, masha ];
 
 function namify(users) {
   // ваш код
-}
+ 
+}; 
 
 let names = namify(users); // ['Вася', 'Петя', 'Маша']
 ```
